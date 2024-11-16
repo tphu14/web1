@@ -1,0 +1,65 @@
+/* General Styles */
+body {
+    font-family: Raleway-Regular, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #777;
+  }
+  
+  /* Navbar */
+  .navbar-light .nav-link {
+    color: #272727;
+    transition: all 0.3s ease;
+  }
+  
+  .navbar-light .nav-link:hover {
+    color: white;
+    background-color: #ff3c41;
+    border-radius: 5px;
+  }
+  
+  /* Carousel */
+  .carousel-inner img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* About Section */
+  h3 {
+    font-family: Raleway-Bold, Arial, sans-serif;
+    color: #1b1b1b;
+    font-size: 26px;
+  }
+  
+  button {
+    background: #ff3c41;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  button:hover {
+    background: #e33235;
+  }
+  
+  /* Services Section */
+  .fa {
+    transition: color 0.3s ease;
+  }
+  
+  .fa:hover {
+    color: #ff3c41;
+  }
+  
+  h4 {
+    font-family: Raleway-Bold, Arial, sans-serif;
+    color: #1b1b1b;
+    margin-top: 15px;
+  }
+  
+  p {
+    color: #555;
+  }
+  
